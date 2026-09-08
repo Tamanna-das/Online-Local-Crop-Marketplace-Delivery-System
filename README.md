@@ -1,70 +1,64 @@
-# Getting Started with Create React App
+# Online Local Crop Marketplace and Delivery System
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[![-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------](
+https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
-## Available Scripts
+This project is an online platform that serves as a marketplace for local crop producers to connect with consumers and facilitate the delivery of fresh produce. It aims to support local farmers by providing them with a platform to sell their crops directly to consumers while also offering a convenient way for users to purchase fresh, locally sourced produce.
 
-In the project directory, you can run:
+[![-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------](
+https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
-### `npm start`
+## Table of Contents
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Contribution](#contribution)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+## Features
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- **User Registration and Authentication**: Users can create accounts and log in securely.
+- **Marketplace**: Local crop producers can list their crops for sale, including details such as product images, descriptions, and prices.
+- **Shopping Cart**: Users can browse available crops, add them to their cart, and proceed to checkout.
+- **Order Management**: Users can view their order history and track the status of their current orders.
+- **Delivery System**: The platform facilitates the delivery of purchased crops from producers to consumers.
+- **Admin Panel**: - Admin panel for managing farmers, sellers, deliveryman and orders
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Technologies Used
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- **Frontend**:
+  - React.js: JavaScript library for building user interfaces.
+  - Bootstrap: Frontend framework for responsive design.
+  - Axios: Promise-based HTTP client for making requests to the backend API.
+  - React Router DOM: Declarative routing for React applications.
+  - React Bootstrap: Bootstrap components built with React.
+  - React Icons: Icon library for React applications.
+  - React Hook Form: Performant, flexible and extensible forms with easy-to-use validation.
+  - FontAwesome: Icon library for React applications.
+  - Web Vitals: Library for measuring web performance metrics.
 
-### `npm run eject`
+- **Backend**:
+  - Node.js: JavaScript runtime environment for server-side development
+  - Express.js: Web application framework for building APIs
+  - MongoDB: NoSQL database for storing crop listings, user data, and orders
+  - JWT (JSON Web Tokens): For user authentication and authorization
+  - Bcrypt.js: For hashing user passwords
+  - Multer: Middleware for handling file uploads (e.g., product images)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- **Deployment**:
+  - AWS
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+[![-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------](
+https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Contribution 
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- [Chami Hansani Vindyani](https://github.com/Vindyani1999)
+- [Chamindu Nipun](https://github.com/Chamindu77)
+- [Yadoda Viarijani](https://github.com/johndoe)
+- [Amesha Wahalathanthri](https://github.com/johndoe)
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
