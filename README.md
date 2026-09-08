@@ -55,10 +55,4 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 [![-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
-## Contribution 
-
-- [Chami Hansani Vindyani](https://github.com/Vindyani1999)
-- [Chamindu Nipun](https://github.com/Chamindu77)
-- [Yadoda Viarijani](https://github.com/johndoe)
-- [Amesha Wahalathanthri](https://github.com/johndoe)
 
